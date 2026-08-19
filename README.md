@@ -2,7 +2,7 @@
   <link rel="stylesheet" href="styles/style.css"/>
   <title>Chaat Puchka SahakarNagar Menu </title>
 
-<body style="background-color: gray;">
+<body style="background-color: black;">
    <div style="text-align: center;">
   <a href="https://i.postimg.cc/SsSZBQ9q/1000037254-removebg-preview.png">
     <img src="https://i.postimg.cc/SsSZBQ9q/1000037254-removebg-preview.png" alt="Description" style="width: 300px;">
@@ -15,24 +15,24 @@
     Pizza
     <br>
     <h3>
-<p style="word-spacing: 115px; text-align: Center;">Golden_Corn_Pizza  ₹170</p>
-  <p style="word-spacing: 102px; text-align: Center;">Onion_Tomato_Pizza    ₹170</p>
-      <p style="word-spacing: 40px; text-align: Center;">Paneer_&_Capsucum_Pizza ₹190</p>   
-      <p style="word-spacing: 113px; text-align: Center;">Spicy_Veggie_Pizza ₹190</p>
-      <p style="word-spacing: 90px; text-align: Center;">Double_Cheese_Pizza ₹200</p>
-      <p style="word-spacing: 90px; text-align: Center;">Corn_&_Cheese_Pizza ₹210</p>
-      <p style="word-spacing: 110px; text-align: Center;">Green_House_Pizza ₹210</p>
-      <p style="word-spacing: 122px; text-align: Center;">Veg_Loaded_Pizza ₹215</p>
-      <p style="word-spacing: 103px; text-align: Center;">Kulhad_Pizza_Small ₹230</p>
-      <p style="word-spacing: 72px; text-align: Center;">Tandoori_paneer_pizza ₹230</p>
-       <p style="word-spacing: 100px; text-align: Center;">Country_Feast_Pizza  ₹250</p>
-       <p style="word-spacing: 78px; text-align: Center;">Mexican_paneer_pizza     ₹250</p>
-      <p style="word-spacing: 90px; text-align: Center;">Veggi_Supreme_Pizza    ₹250</p>
-      <p style="word-spacing: 100px; text-align: Center;">Garlic_Cheese_Pizza     ₹250</p>
-      <p style="word-spacing: 184px; text-align: Center;">Pasta_Pizza    ₹250</p>
-      <p style="word-spacing: 132px; text-align: Center;">Mushroom_Pizza    ₹250</p>
-      <p style="word-spacing: 70px; text-align: center;">Cheese_Macaroni_Pizza    ₹250</p>
-      <p style="word-spacing: 105px; text-align: center;">Cheese_Burst_Pizza    ₹260</p>
+<p style="word-spacing: 115px; text-align: Center; color: white;">Golden_Corn_Pizza  ₹170</p>
+  <p style="word-spacing: 102px; text-align: Center; color: white;">Onion_Tomato_Pizza    ₹170</p>
+      <p style="word-spacing: 40px; text-align: Center; color: white;">Paneer_&_Capsucum_Pizza ₹190</p>   
+      <p style="word-spacing: 113px; text-align: Center; color: white;">Spicy_Veggie_Pizza ₹190</p>
+      <p style="word-spacing: 90px; text-align: Center; color: white;">Double_Cheese_Pizza ₹200</p>
+      <p style="word-spacing: 90px; text-align: Center; color: white;">Corn_&_Cheese_Pizza ₹210</p>
+      <p style="word-spacing: 110px; text-align: Center; color: white;">Green_House_Pizza ₹210</p>
+      <p style="word-spacing: 122px; text-align: Center; color: white;">Veg_Loaded_Pizza ₹215</p>
+      <p style="word-spacing: 103px; text-align: Center; color: white;">Kulhad_Pizza_Small ₹230</p>
+      <p style="word-spacing: 72px; text-align: Center; color: white;">Tandoori_paneer_pizza ₹230</p>
+       <p style="word-spacing: 100px; text-align: Center; color: white;">Country_Feast_Pizza  ₹250</p>
+       <p style="word-spacing: 78px; text-align: Center; color: white;">Mexican_paneer_pizza     ₹250</p>
+      <p style="word-spacing: 90px; text-align: Center; color: white;">Veggi_Supreme_Pizza    ₹250</p>
+      <p style="word-spacing: 100px; text-align: Center; color: white;">Garlic_Cheese_Pizza     ₹250</p>
+      <p style="word-spacing: 184px; text-align: Center; color: white;">Pasta_Pizza    ₹250</p>
+      <p style="word-spacing: 132px; text-align: Center; color: white;">Mushroom_Pizza    ₹250</p>
+      <p style="word-spacing: 70px; text-align: center; color: white;">Cheese_Macaroni_Pizza    ₹250</p>
+      <p style="word-spacing: 105px; text-align: center; color: white;">Cheese_Burst_Pizza    ₹260</p>
  </h3>
     <br>
      <h2 style="text-align: Center; color: Orange;">
